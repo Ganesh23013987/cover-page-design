@@ -63,6 +63,9 @@ Experiment with different values for colors, sizes, and positioning to customize
 
 By following these steps, you should be able to create and customize a book cover page using the provided HTML and CSS code.
 
+### Step 6:
+End program.
+
 ## Code:
 ```
 <!DOCTYPE html>
@@ -189,4 +192,4 @@ By following these steps, you should be able to create and customize a book cove
 ![Alt text](<coverpage output.png>)
 
 ## Result:
-The program is successfully executed and end program.
+Then, the program is successfully executed.
