@@ -32,7 +32,7 @@ Open the <body> section to include the content of the document:
 </body>
 
 ### Step 2: Style the Book Page
-Create a <div> with the class "bookpage" to serve as the container for the book cover page:
+Create a div tag with the class "bookpage" to serve as the container for the book cover page:
 
 
 <div class="bookpage">
