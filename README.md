@@ -189,7 +189,7 @@ End program.
 ```
 
 ## Output:
-![Alt text](<coverpage output.png>)
+<img width="930" alt="coverpage output" src="https://github.com/Ganesh23013987/cover-page-design/assets/147473768/8afb1e10-fbea-4dd3-8742-135c96ec8205">
 
 ## Result:
 Then, the program is successfully executed.
