@@ -80,8 +80,8 @@ By following these steps, you should be able to create and customize a book cove
             margin-right: auto;
             padding: 20px;
             font-family: 'Franklin Gothic Medium', 'Arail Narrow', Arial, sans-serif;
-            background-image:"https://www.google.com/url?sa=i&url=https%3A%2F%2Falphacommunity.in%2Fexplore%2Fexpert-speak%2Fcapturing-the-rhythms-of-classical-india%2F&psig=AOvVaw0RTtw42q8tFfie08rgSEYp&ust=1701673603118000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKDM5aPa8oIDFQAAAAAdAAAAABAK";
-            background-color: red;
+            background-color:red:;
+        
             background-size:cover;
             background-position: center;
         }
