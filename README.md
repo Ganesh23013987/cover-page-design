@@ -32,7 +32,7 @@ Open the <body> section to include the content of the document:
 </body>
 
 ### Step 2: Style the Book Page
-Create a <div> with the class "bookpage" to serve as the container for the book cover page:
+Create a div tag with the class "bookpage" to serve as the container for the book cover page:
 
 
 <div class="bookpage">
@@ -63,6 +63,9 @@ Experiment with different values for colors, sizes, and positioning to customize
 
 By following these steps, you should be able to create and customize a book cover page using the provided HTML and CSS code.
 
+### Step 6:
+End program.
+
 ## Code:
 ```
 <!DOCTYPE html>
@@ -80,8 +83,8 @@ By following these steps, you should be able to create and customize a book cove
             margin-right: auto;
             padding: 20px;
             font-family: 'Franklin Gothic Medium', 'Arail Narrow', Arial, sans-serif;
-            background-color:red:;
-        
+            background-image:"https://www.google.com/url?sa=i&url=https%3A%2F%2Falphacommunity.in%2Fexplore%2Fexpert-speak%2Fcapturing-the-rhythms-of-classical-india%2F&psig=AOvVaw0RTtw42q8tFfie08rgSEYp&ust=1701673603118000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKDM5aPa8oIDFQAAAAAdAAAAABAK";
+            background-color: red;
             background-size:cover;
             background-position: center;
         }
@@ -187,7 +190,7 @@ By following these steps, you should be able to create and customize a book cove
 ```
 
 ## Output:
-![Alt text](<coverpage output.png>)
+<img width="930" alt="coverpage output" src="https://github.com/Ganesh23013987/cover-page-design/assets/147473768/8afb1e10-fbea-4dd3-8742-135c96ec8205">
 
 ## Result:
-The program is successfully executed and end program.
+Then, the program is successfully executed.
